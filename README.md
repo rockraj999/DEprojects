@@ -26,7 +26,7 @@ This project aims to build a comprehensive data pipeline for extracting, transfo
    insights of data like get artist name ot a song, duration of a song, popularity of a song etc.
 
 ## Architecture:
-![Screenshot (74)](https://github.com/rockraj999/Visualizations/assets/121096737/1cf6f815-568d-4bfb-990a-d3b6f61d3f4a)
+![Screenshot (74)](https://github.com/rockraj999/Visualizations/assets/121096737/75230799-0b82-46f0-b5da-40551929606e)
 
 ## Achievements:
 1. Successfully transformed raw spotify data into an intuitive, user-friendly visualization dashboard.
